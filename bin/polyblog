@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'polyblog'
+puts Polyblog::hello_world
